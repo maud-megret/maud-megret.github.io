@@ -6,7 +6,7 @@ title: "Accueil"
 # Présentation
 
 Bienvenue sur ma page professionnelle.  
-Je suis [ton métier ou domaine ici] à [ton institution ou entreprise].
+Je suis doctorante au LSCE (Laboratoire des Sciences du Climat et de l'Environnement).
 
 ---
 
@@ -22,15 +22,12 @@ Ce site regroupe mes publications, projets et informations professionnelles.
 ---
 
 ## Publications
-- **Titre de la publication 1** — *Revue, année*  
-  Brève description ou lien : [voir l’article](#)
-- **Titre de la publication 2** — *Revue, année*
+
 
 ---
 
 ## Projets
-- [Projet 1](#) — courte description  
-- [Projet 2](#) — courte description
+
 
 ---
 

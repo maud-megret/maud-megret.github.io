@@ -17,17 +17,13 @@ Ce site regroupe mes publications, projets et informations professionnelles.
 
 ---
 
-## CV
-- [Télécharger mon CV (PDF)](/assets/CV_Maud_Megret.pdf)
+## Projets
 
+- Doctorat : janvier 2025 - janvier 2028 : Stochastic generator of glacial trajectories from moraines data
 ---
+
 
 ## Publications
-
-
----
-
-## Projets
 
 
 ---

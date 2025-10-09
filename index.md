@@ -19,12 +19,13 @@ Ce site regroupe mes publications, projets et informations professionnelles.
 
 ## Projets
 
-- Doctorat : janvier 2025 - janvier 2028
-  Lieu : LSCE
-  Sujet : Création d'un générateur stochastique visant à reconstruire les variations passées de front de glaciers à partir de données de moraines observées
-  Encadrement : Philippe Naveau (LSCE), Nicolas Eckert (INRAE Grenoble), Mike Pereira (Mines PSL), Vincent Jomelli (Cerege)
-  Mots clés : Glaciers, Moraines, Théorie des valeurs records, Mouvements Browniens, Simulation Conditionnelle, Inférence
-  Résumé : 
+- **Doctorat** : janvier 2025 - janvier 2028  
+  **Lieu** : LSCE  
+  **Sujet** : Création d'un générateur stochastique visant à reconstruire les variations passées de front de glaciers à partir de données de moraines observées  
+  **Encadrement** : Philippe Naveau (LSCE), Nicolas Eckert (INRAE Grenoble), Mike Pereira (Mines PSL), Vincent Jomelli (Cerege)  
+  **Mots clés** : Glaciers, Moraines, Théorie des valeurs records, Mouvements Browniens, Simulation Conditionnelle, Inférence  
+  **Résumé** : [📄 Abstract (PDF)](/assets/abstract_SWGEN_09_25.pdf)  
+
 ---
 
 

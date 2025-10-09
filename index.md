@@ -2,7 +2,7 @@
 layout: default
 title: "Accueil"
 ---
-![Maud Mégret](/assets/193120(1).jpg){: style="width:150px; border-radius:50%;" }
+
 
 # Présentation
 

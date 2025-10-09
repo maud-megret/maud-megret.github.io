@@ -18,7 +18,7 @@ Ce site regroupe mes publications, projets et informations professionnelles.
 ---
 
 ## Projets
-- **Stage de fin d'étude** : avril 2024 - Septembre 2024
+- **Stage de fin d'étude** : avril 2024 - Septembre 2024  
   **Lieu** : LSCE  
   **Sujet** : Émulation du module de transfert radiatif par apprentissage automatique dans le modèle de surface continental ORCHIDEE  
   **Encadrement** : Xiaoni Wang-Faivre (LSCE), Philippe Naveau (LSCE)  

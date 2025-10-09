@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Accueil"
+---
+
 # Présentation
 
 Bienvenue sur ma page professionnelle.  

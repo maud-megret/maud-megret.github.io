@@ -1,0 +1,14 @@
+title: "Maud Mégret"
+description: "Page professionnelle — CV, publications et projets"
+theme: jekyll-theme-minimal
+
+# Liens sociaux (facultatifs)
+github_username: maud-megret
+linkedin: "https://www.linkedin.com/in/ton-lien-linkedin"
+email: "ton.email@exemple.com"
+
+# (Facultatif) Favicon, logo ou photo
+logo: /assets/photo-profil.jpg
+
+# (Optionnel) Si tu veux que ton site ait un menu
+show_downloads: false

@@ -12,14 +12,19 @@ Je suis doctorante au LSCE (Laboratoire des Sciences du Climat et de l'Environne
 ---
 
 ## À propos
-Doctorante au LSCE , je travaille sur la modélisation probabiliste de la trajectoire des fronts de glaciers.  
+Diplômée de l'ENSAI (Ecole Nationale de la Statistique et de l'Analyse de l'Information) en 2024.
 Ce site regroupe mes publications, projets et informations professionnelles.
 
 ---
 
 ## Projets
 
-- Doctorat : janvier 2025 - janvier 2028 : Stochastic generator of glacial trajectories from moraines data
+- Doctorat : janvier 2025 - janvier 2028
+  Lieu : LSCE
+  Sujet : Création d'un générateur stochastique visant à reconstruire les variations passées de front de glaciers à partir de données de moraines observées
+  Encadrement : Philippe Naveau (LSCE), Nicolas Eckert (INRAE Grenoble), Mike Pereira (Mines PSL), Vincent Jomelli (Cerege)
+  Mots clés : Glaciers, Moraines, Théorie des valeurs records, Mouvements Browniens, Simulation Conditionnelle, Inférence
+  Résumé : 
 ---
 
 

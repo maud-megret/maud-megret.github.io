@@ -27,7 +27,7 @@ Ce site regroupe mes publications, projets et informations professionnelles.
   **Sujet** : Création d'un générateur stochastique visant à reconstruire les variations passées de front de glaciers à partir de données de moraines observées  
   **Encadrement** : Philippe Naveau (LSCE), Nicolas Eckert (INRAE Grenoble), Mike Pereira (Mines PSL), Vincent Jomelli (Cerege)  
   **Mots clés** : Glaciers, Moraines, Théorie des valeurs records, Mouvements Browniens, Simulation Conditionnelle, Inférence  
-  **Résumé** : [📄 Abstract (PDF)](/assets/abstract_SWGEN_09_25.pdf)  
+  **Résumé** : [📄 Abstract (PDF)](/assets/abstract.pdf)  
   **Poster** : [📄 Poster (PDF)](/assets/poster_IRIMONT_juin_2025.pdf)
 
 ---

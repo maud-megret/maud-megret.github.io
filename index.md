@@ -31,6 +31,7 @@ Ce site regroupe mes publications, projets et informations professionnelles.
   **Poster** : [📄 Poster (PDF)](/assets/poster_IRIMONT_juin_2025.pdf)
 
 ---
+
 ## Présentations
 **Titre des présentations et des posters** : "Stochastic generator of glaciers trajectories from moraines data."
 - 31/03/2025 - 02/04/2025 - Roscoff - Séminaire "Data Science pour les risques côtiers et hydroclimatiques" - Présentation orale
@@ -41,10 +42,12 @@ Ce site regroupe mes publications, projets et informations professionnelles.
 - 26-28/01/2026 - Col de la Porte - Réunion de lancement du projet SICIM - Présentation orale
   
 ---
+
 ## Enseignement
 - Décembre 2025 - Janvier 2026 - Module « Introduction à l’Analyse Statistique des Risques Climatiques » de la formation de Master 2 « Etude des Climats de la Terre », sous-parcours «CLImat : Modélisation Et Observation», de l’Université de Versailles Saint-Quentin-en-Yvelines - 9h CM / 3h TD
   
 ---
+
 ## Publications
 
 

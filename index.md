@@ -39,12 +39,12 @@ Ce site regroupe mes publications, projets et informations professionnelles.
 - 06/06/2025 - Grenoble - Journée spécifique du projet IRIMONT - Présentation orale d'un poster
 - 02-04/12/2025 - Grenoble - Séminaire SWGEN "Conférence on Stochastic Weather Generators" - Présentation orale
 - 26-28/01/2026 - Col de la Porte - Réunion de lancement du projet SICIM - Présentation orale
+  
 ---
-
 ## Enseignement
 - Décembre 2025 - Janvier 2026 - Module « Introduction à l’Analyse Statistique des Risques Climatiques » de la formation de Master 2 « Etude des Climats de la Terre », sous-parcours «CLImat : Modélisation Et Observation», de l’Université de Versailles Saint-Quentin-en-Yvelines - 9h CM / 3h TD
+  
 ---
-
 ## Publications
 
 

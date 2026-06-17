@@ -28,7 +28,7 @@ Ce site regroupe mes publications, projets et informations professionnelles.
   **Encadrement** : Philippe Naveau (LSCE), Nicolas Eckert (INRAE Grenoble), Mike Pereira (Mines PSL), Vincent Jomelli (Cerege)  
   **Mots clés** : Glaciers, Moraines, Théorie des valeurs records, Mouvements Browniens, Simulation Conditionnelle, Inférence  
   **Résumé** : [📄 Abstract (PDF)](/assets/abstract.pdf)  
-  **Poster** : [📄 Poster (PDF)](/assets/poster_IRIMONT_juin_2025.pdf)
+  **Poster** : [📄 Poster (PDF)](/assets/poster_IRIMONT_juin_2026.pdf)
 
 ---
 
@@ -39,7 +39,9 @@ Ce site regroupe mes publications, projets et informations professionnelles.
 - 04-05/06/2025 - Grenoble - Journées du PEPR Risques IRIMA - Présentation d'un poster
 - 06/06/2025 - Grenoble - Journée spécifique du projet IRIMONT - Présentation orale d'un poster
 - 02-04/12/2025 - Grenoble - Séminaire SWGEN "Conférence on Stochastic Weather Generators" - Présentation orale
-- 26-28/01/2026 - Col de la Porte - Réunion de lancement du projet SICIM - Présentation orale  
+- 26-28/01/2026 - Col de la Porte - Réunion de lancement du projet SICIM - Présentation orale
+- 1-3/06/2026 - Col du Lautaret - Journée spécifique du projet IRIMONT - Présentation orale
+- 25/06/2026 - Jussieu, Paris - Journées des jeunes chercheurs du PEPR IRIMA - Présentation d'un poster
   
 ---
 
@@ -49,8 +51,7 @@ Ce site regroupe mes publications, projets et informations professionnelles.
 ---
 
 ## Publications
-
-
+Stochastic generator of trajectories from record data: application to the fluctuations of a glacier’s frontal position from a sample of moraines - Megret, Pereira, Eckert,Jomelli, Naveau - Submitted
 ---
 
 ## Contact

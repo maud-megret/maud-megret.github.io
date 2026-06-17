@@ -50,8 +50,8 @@ Ce site regroupe mes publications, projets et informations professionnelles.
   
 ---
 
-## Publications
-Stochastic generator of trajectories from record data: application to the fluctuations of a glacier’s frontal position from a sample of moraines - Megret, Pereira, Eckert,Jomelli, Naveau - Submitted
+## Publications 
+- Stochastic generator of trajectories from record data: application to the fluctuations of a glacier’s frontal position from a sample of moraines - Megret, Pereira, Eckert,Jomelli, Naveau - Submitted
 ---
 
 ## Contact

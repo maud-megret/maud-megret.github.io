@@ -41,12 +41,13 @@ Ce site regroupe mes publications, projets et informations professionnelles.
 - 02-04/12/2025 - Grenoble - Séminaire SWGEN "Conférence on Stochastic Weather Generators" - Présentation orale
 - 26-28/01/2026 - Col de la Porte - Réunion de lancement du projet SICIM - Présentation orale
 - 1-3/06/2026 - Col du Lautaret - Journée spécifique du projet IRIMONT - Présentation orale
-- 25/06/2026 - Jussieu, Paris - Journées des jeunes chercheurs du PEPR IRIMA - Présentation d'un poster
+- 08/10/2026 - Jussieu, Paris - Journées des jeunes chercheurs du PEPR IRIMA - Présentation d'un poster et présentation orale
   
 ---
 
 ## Enseignement
-- Décembre 2025 - Janvier 2026 - Module « Introduction à l’Analyse Statistique des Risques Climatiques » de la formation de Master 2 « Etude des Climats de la Terre », sous-parcours «CLImat : Modélisation Et Observation», de l’Université de Versailles Saint-Quentin-en-Yvelines - 9h CM / 3h TD  
+- Décembre 2025 - Janvier 2026 - Module « Introduction à l’Analyse Statistique des Risques Climatiques » de la formation de Master 2 « Etude des Climats de la Terre », sous-parcours «CLImat : Modélisation Et Observation», de l’Université de Versailles Saint-Quentin-en-Yvelines - 9h CM / 3h TD
+- Septembre 2026 - Climat et controverses - Animation de débats autour du sujet des Mega-bassines - Centrale Supelec - 18h
   
 ---
 

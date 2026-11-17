@@ -48,11 +48,11 @@ Ce site regroupe mes publications, projets et informations professionnelles.
 ## Enseignement
 - Décembre 2025 - Janvier 2026 - Module « Introduction à l’Analyse Statistique des Risques Climatiques » de la formation de Master 2 « Etude des Climats de la Terre », sous-parcours «CLImat : Modélisation Et Observation», de l’Université de Versailles Saint-Quentin-en-Yvelines - 9h CM / 3h TD
 - Septembre 2026 - Climat et controverses - Animation de débats autour du sujet des Mega-bassines - Centrale Supelec - 18h
-  
+- Novembre 2026 - Janvier 2027 - TD de probabilités 1e année - Mines Paris PSL - 7.5h
 ---
 
 ## Publications 
-- Stochastic generator of trajectories from record data: application to the fluctuations of a glacier’s frontal position from a sample of moraines - Megret, Pereira, Eckert,Jomelli, Naveau - Submitted
+- Stochastic generator of trajectories from record data: application to the fluctuations of a glacier’s frontal position from a sample of moraines - Megret, Pereira, Eckert,Jomelli, Naveau - [Hal](https://hal.science/hal-05620754v1/document)
 ---
 
 ## Contact
